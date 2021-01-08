@@ -1,0 +1,13 @@
+{
+  "name": "server01",
+  "version": "1.0.0",
+  "description": "my first web server in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Sanje Divakaran",
+  "license": "ISC",
+  "dependencies": {}
+}
